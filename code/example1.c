@@ -21,5 +21,7 @@ int main(void)
         printf("d = %d\n", d);
     }
 
+    printf("Goodbye World!\n");
+
     return 0;
 }
